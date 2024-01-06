@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@dm5150tickets/common": "^1.0.4",
+    "node-nats-streaming": "^0.3.2"
+  }
+}
